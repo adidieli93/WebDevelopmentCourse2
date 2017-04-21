@@ -1,0 +1,127 @@
+body 
+{
+    direction:rtl;
+}
+
+#container{
+    background-color:#569e9d;
+}
+
+#article{
+    background-color:white;
+    width:960px;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.logo{
+    width:200px;
+    padding:15px;
+}
+
+h1{
+    font-size:60px;
+    text-align:center;
+    font-family: 'Secular One', sans-serif;
+}
+
+#general{
+    padding:15px;
+    color:#195958;
+    font-family: 'Heebo', sans-serif;
+}
+h2{
+    font-size:35px;
+    padding-right:20px;
+    /*padding-top:5px;*/
+    font-family: 'Secular One', sans-serif;
+}
+
+.sym3{
+     padding-right:200px;
+     font-size:20px;
+     color:#195958;
+     font-family: 'Heebo', sans-serif;
+ }
+
+.symbols:hover{
+    border:3px black dashed;
+}
+
+ .symbols{
+     width:180px;
+     padding-right:100px;
+ }
+
+#box div{
+    background-color:#195958;
+    width:200px;
+    height:20px;
+    padding:15px;
+   margin-top:5px;
+    text-align: center;
+  display: inline-block;
+  padding-top:20px;
+}
+
+#box{
+    padding-right:125px;
+    padding-top:10px;
+}
+
+#box div span{
+    text-align:center;
+    color:white;
+    font-family: 'Heebo', sans-serif;
+    font-size:15px;
+
+}
+
+.projects{
+    width:960px;
+}
+.projects:hover{
+    border:3px black dashed;
+}
+
+.company{
+    width: 924px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.company:hover{
+border:3px black dashed;
+}
+
+#formm{
+    width:960px;
+    height:85px;
+    background-color:#195958;
+    text-align:center;
+    padding-top:10px;
+    color:white;
+    
+    font-size:22px;
+    margin-top:10px;
+    font-family: 'Heebo', sans-serif;
+   
+}
+
+form{
+    font-family: 'Heebo', sans-serif;
+    padding-top:30px;
+}
+
+/*#feedback{
+    color:white;
+}*/
+input{
+    font-family: 'Heebo', sans-serif;
+}
+
+label{
+    font-family: 'Heebo', sans-serif;
+}
+
+
